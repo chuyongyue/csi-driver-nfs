@@ -1,0 +1,2 @@
+静态创建pv和pvc
+在创建一个deployment验证
